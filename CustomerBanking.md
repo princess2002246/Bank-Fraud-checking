@@ -38,6 +38,8 @@ unusual transaction amount
 normal transactions
 
 ----------- ACTIVITY SOLUTION -----------
+
+
 START
 
 // Create the bank accounts
